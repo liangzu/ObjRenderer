@@ -1,4 +1,4 @@
 #+TITLE: ObjRenderer
 
 The code here is in fact a fork from [[https://github.com/sunweilun/ObjRenderer][here]] and [[https://github.com/silverbottlep/ObjRenderer][there]]. I write a CMAKE
-file to ease the compilation, and fix some sutble errors.
+file to ease the compilation, and fix some subtle errors.
