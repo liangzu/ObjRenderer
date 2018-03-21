@@ -1,0 +1,11 @@
+folder_path = /home/lenovo/dataset/ShapeNetCore.v1/02958343/
+envmap_path = ../envmaps/envmap2.hdr
+theta_inc = 20
+phi_inc = 10
+phi_max = 20
+output_coord = 1
+output_norm = 1
+render_size = 1024
+output_size = 256
+reverse_normals = 1
+brightness = 0.7
